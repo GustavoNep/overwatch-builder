@@ -5,4 +5,5 @@ An application that allows you to choose your character, its name, its function 
 
 ![](https://media.giphy.com/media/x1xicIbpsTH2FKlaeQ/giphy.gif)
 
+The application was made in react using the concepts of components and hooks
 
